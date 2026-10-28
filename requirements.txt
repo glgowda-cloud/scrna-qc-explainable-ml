@@ -1,0 +1,14 @@
+scanpy
+anndata
+scrublet
+celltypist
+xgboost
+shap
+gseapy
+scikit-learn
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+leidenalg
